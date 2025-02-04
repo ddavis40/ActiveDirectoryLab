@@ -1,10 +1,10 @@
 # Active Directory Home Lab
 
-### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+### [YouTube Demonstration](https://youtu.be/oGFOc58obVE)
 
 ## Description
 
-In this Lab I went through an online tutorial done alongside [Josh Madakor](https://www.youtube.com/watch?v=MHsI8hJmggI) and set up what could be a corporate VMWare Network of virtual machines, with a user base of 1000+ users. I went through things such as creating a Domain Controller (DC) virtual machine and configuring that machine
+In this Lab I went through an online tutorial done alongside [Josh Madakor](https://www.youtube.com/watch?v=MHsI8hJmggI) and set up what could be a corporate VMWare Network of virtual machines, with a user base of 1000+ users. I Used PowerShell, DHCP, and windows server 2019 with AD to create a DC for our 1000+ user base to use authorized clients to connect to their user accounts and to the internet using our client1-2 machines.
 ## Languages and Utilities Used
 
 - **PowerShell**
